@@ -1,8 +1,7 @@
 # DBCinema
 
 CRUD completo per la gestione del database **cinema** in PHP + MySQL.
-
-Demo: `cinemaCRUD.wuaze.com`
+`
 
 Autore: Dennys Teora
 
